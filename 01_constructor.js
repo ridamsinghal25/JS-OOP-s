@@ -56,4 +56,3 @@ depositForm.addEventListener("submit", (e) => {
   account.deposit(+amount.value);
   console.log(accounts);
 });
-l;
